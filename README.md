@@ -1,4 +1,4 @@
-# FE-Scripting, Bassics 🌠
+# FE-Scripting, The Bassics 🌠
 
 ## Supported Games 💻
 
