@@ -1,6 +1,6 @@
 # FE-Scripting, Bassics 🌠
 
-** Supported Games 💻**
+## Supported Games 💻
 
 
-** Audios 🎶**
+## Audios 🎶**
