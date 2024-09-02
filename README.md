@@ -3,7 +3,7 @@
 ## Supported Games 💻
 
 
-## Audios 🎶**
+## Audios 🎶
 
 ## CopyRight Claim ©
 
